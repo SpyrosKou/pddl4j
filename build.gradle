@@ -6,9 +6,6 @@ buildscript {
 
 plugins {
     id "ca.coglinc.javacc" version "2.4.0"
-}
-
-plugins {
     id "org.sonarqube" version "2.6.1"
 }
 
